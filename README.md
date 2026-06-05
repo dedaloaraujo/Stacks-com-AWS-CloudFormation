@@ -1,2 +1,43 @@
-# Stacks-com-AWS-CloudFormation
-Repositório contendo anotações e telas de capturas da criação de Stacks com AWS CloudFormation.
+# Stacks com AWS CloudFormation
+
+<h2>Repositório contendo anotações e telas de capturas da criação de Stacks com AWS CloudFormation.</h2>
+<br>
+<br>
+<h3>Criando instância EC2 com AWS CloudFormation.</h3>
+<br>
+<br>
+Editando o script YAML de criação da instância EC2.
+<img src="https://raw.githubusercontent.com/dedaloaraujo/Stacks-com-AWS-CloudFormation/refs/heads/main/images/Captura%20de%20tela%202026-06-05%20125209.png">
+<br>
+<br>
+Criando stack para instância EC2.
+<img src="https://raw.githubusercontent.com/dedaloaraujo/Stacks-com-AWS-CloudFormation/refs/heads/main/images/Captura%20de%20tela%202026-06-05%20125343.png">
+<br>
+<br>
+Definindo o nome da stack.
+<img src="https://raw.githubusercontent.com/dedaloaraujo/Stacks-com-AWS-CloudFormation/refs/heads/main/images/Captura%20de%20tela%202026-06-05%20125523.png">
+<br>
+<br>
+Stack criada.
+<img src="https://raw.githubusercontent.com/dedaloaraujo/Stacks-com-AWS-CloudFormation/refs/heads/main/images/Captura%20de%20tela%202026-06-05%20125643.png">
+<br>
+<br>
+Instância EC2 criada pela stack.
+<img src="https://raw.githubusercontent.com/dedaloaraujo/Stacks-com-AWS-CloudFormation/refs/heads/main/images/Captura%20de%20tela%202026-06-05%20130909.png">
+<br>
+<br>
+
+<h3>Criando stack para instalação de Apache.</h3>
+<br>
+<br>
+
+Editando o script YAML de instalação do Apache.
+<img src="https://raw.githubusercontent.com/dedaloaraujo/Stacks-com-AWS-CloudFormation/refs/heads/main/images/Captura%20de%20tela%202026-06-05%20131550.png">
+<br>
+<br>
+Criando stack para instalação do Apache.
+<img src="https://github.com/dedaloaraujo/Stacks-com-AWS-CloudFormation/blob/main/images/Captura%20de%20tela%202026-06-05%20131632.png?raw=true">
+<br>
+<br>
+
+

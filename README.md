@@ -10,7 +10,7 @@ Editando o script YAML de criação da instância EC2.
 <img src="https://raw.githubusercontent.com/dedaloaraujo/Stacks-com-AWS-CloudFormation/refs/heads/main/images/Captura%20de%20tela%202026-06-05%20125209.png">
 <br>
 <br>
-Criando stack para instância EC2.
+Criando a stack para instância EC2.
 <img src="https://raw.githubusercontent.com/dedaloaraujo/Stacks-com-AWS-CloudFormation/refs/heads/main/images/Captura%20de%20tela%202026-06-05%20125343.png">
 <br>
 <br>
@@ -27,17 +27,47 @@ Instância EC2 criada pela stack.
 <br>
 <br>
 
-<h3>Criando stack para instalação de Apache.</h3>
+<h3>Criando EC2 + Apache com AWS CloudFormation.</h3>
 <br>
 <br>
 
-Editando o script YAML de instalação do Apache.
+Editando o script YAML de criação da instância EC2 + Apache.
 <img src="https://raw.githubusercontent.com/dedaloaraujo/Stacks-com-AWS-CloudFormation/refs/heads/main/images/Captura%20de%20tela%202026-06-05%20131550.png">
 <br>
 <br>
-Criando stack para instalação do Apache.
+Criando a stack.
 <img src="https://github.com/dedaloaraujo/Stacks-com-AWS-CloudFormation/blob/main/images/Captura%20de%20tela%202026-06-05%20131632.png?raw=true">
 <br>
 <br>
-
+Definindo o nome da stack.
+<img src="https://github.com/dedaloaraujo/Stacks-com-AWS-CloudFormation/blob/main/images/Captura%20de%20tela%202026-06-05%20131715.png?raw=true">
+<br>
+<br>
+Stack criada.
+<img src="https://github.com/dedaloaraujo/Stacks-com-AWS-CloudFormation/blob/main/images/Captura%20de%20tela%202026-06-05%20132102.png?raw=true">
+<br>
+<br>
+<h3>Criando EC2 + configuração de Firewall com AWS CloudFormation.</h3>
+<br>
+<br>
+Editando o script YAML de criação da instância EC2 + configuração de Firewall.
+<img src="https://github.com/dedaloaraujo/Stacks-com-AWS-CloudFormation/blob/main/images/Captura%20de%20tela%202026-06-05%20140633.png?raw=true">
+<br>
+<br>
+Criando a stack.
+<img src="https://github.com/dedaloaraujo/Stacks-com-AWS-CloudFormation/blob/main/images/Captura%20de%20tela%202026-06-05%20140743.png?raw=true">
+<br>
+<br>
+Definindo o nome da stack.
+<img src="https://github.com/dedaloaraujo/Stacks-com-AWS-CloudFormation/blob/main/images/Captura%20de%20tela%202026-06-05%20140807.png?raw=true">
+<br>
+<br>
+Stack criada.
+<img src="https://github.com/dedaloaraujo/Stacks-com-AWS-CloudFormation/blob/main/images/Captura%20de%20tela%202026-06-05%20141111.png?raw=true">
+<br>
+<br>
+Grupo de segurança criado e acesso pela porta 80 liberado.
+<img src="https://github.com/dedaloaraujo/Stacks-com-AWS-CloudFormation/blob/main/images/Captura%20de%20tela%202026-06-05%20142746.png?raw=true">
+<br>
+<br>
 
